@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "peaning39 Stat Module",
   "description": "Modular reactive stat system for Unity with character and weapon support.",
-  "unity": "2022.3.51f1",
+  "unity": "2022.3",
   "author": {
     "name": "peaning39",
     "email": "peaning39@naver.com",
