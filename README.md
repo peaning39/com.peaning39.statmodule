@@ -6,7 +6,7 @@ StatModule for Unity
 확장성 있게 관리할 수 있도록 설계되었습니다.
 
 `StatModule`을 중심으로 스탯 변경을 통합적으로 관리하며,  
-`Subject` 기반의 이벤트 알림 구조와 `SetStatLinked` 기반의 구독 모델을 통해  
+`UniRx`를 이용하여 `Subject` 기반의 이벤트 알림 구조와 `SetStatLinked` 기반의 구독 모델을 통해  
 UI와 시스템이 스탯 변경에 실시간으로 반응할 수 있도록 구성되어 있습니다.
 
 장기적인 게임 시스템 개발을 염두에 두고,  
