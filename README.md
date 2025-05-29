@@ -15,4 +15,4 @@ UI와 시스템이 스탯 변경에 실시간으로 반응할 수 있도록 구�
 ---
 
 ※ 이 패키지는 [UniRx](https://github.com/neuecc/UniRx) 에 의존합니다.  
-설치 경로: https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts
+설치 경로: https://github.com/neuecc/UniRx/releases/tag/7.1.0
